@@ -1,28 +1,23 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+*~
+*.elc
+auto-save-list
+recentf
+savehist
+saveplace
+eshell
+elpa
+el-get
+semanticdb
+url
+ede-projects.el
+.DS_Store
+custom.el
+places
+.smex-items
+savefile/
+/prelude-modules.el
+projectile-bookmarks.eld
+session*
+.cask
+tramp
+/var/pcache
